@@ -16,42 +16,38 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🏆 Leaderboard
+### 🧭 State of AI for Buddhism
 
-See which skill and model work best for each task and language, and what they cost.
+For foundations, funders and anyone asking what AI can do today: what is measured, the best current scores, and the gaps.
 
-[**Open the leaderboard →**](https://buddhistai.github.io/buddhist-benchmarks/)
-
-</td>
-<td width="33%" valign="top">
-
-### 🧰 Skills
-
-Install the best skill for your language, one plugin per language.
-
-[**Get the skills →**](https://github.com/BuddhistAI/buddhist-skills#install)
+[**See the state and gaps →**](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/STATE.md)
 
 </td>
 <td width="33%" valign="top">
 
-### 📊 Benchmarks
+### 🏆 Find the best tools
 
-Test sets and scorers for each task, plus [BuddhistBench](https://github.com/BuddhistAI/buddhist-bench) for how well AI knows the traditions.
+For teachers, translators and project teams: which skill and model work best for your task and language, and what they cost.
 
-[**See the benchmarks →**](https://github.com/BuddhistAI/buddhist-benchmarks)
+[**Open the leaderboard →**](https://buddhistai.github.io/buddhist-benchmarks/)<br>
+[Install the skills →](https://github.com/BuddhistAI/buddhist-skills#install)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧪 Evaluate your solution
+
+For organizations building tools or models: score yours on an open benchmark and join the leaderboard, or propose a new benchmark.
+
+[**How to submit →**](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/SUBMIT.md)
 
 </td>
 </tr>
 </table>
 
-```bash
-claude plugin marketplace add BuddhistAI/buddhist-skills
-claude plugin install buddhist-skills-tibetan@buddhistai   # or -pali, -sanskrit, -classical-chinese, ...
-```
-
 ## Get involved
 
-- 🛠️ **Build a better skill or add test data:** score it on [buddhist-benchmarks](https://github.com/BuddhistAI/buddhist-benchmarks#scoring-a-skill), or see a [workshop repo](https://github.com/BuddhistAI/toc-extraction-tibetan) for how one is made.
+- 🛠️ **Build a skill or add test data:** see a [workshop repo](https://github.com/BuddhistAI/toc-extraction-tibetan) for how a skill is made, or [add a test set](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/CONTRIBUTING.md) for your language.
 - 🏛️ **Represent a tradition or institution?** Share [exam papers](https://github.com/BuddhistAI/buddhist-bench/blob/main/docs/exams.md) (with permission) or [write expert questions](https://github.com/BuddhistAI/buddhist-bench/blob/main/CONTRIBUTING.md) for BuddhistBench.
 - 🔬 **Do research?** Read the plans and reports in [research](https://github.com/BuddhistAI/research).
 - 💬 **Questions or ideas?** Start a thread in [Discussions](https://github.com/orgs/BuddhistAI/discussions), or open an issue in any repo.

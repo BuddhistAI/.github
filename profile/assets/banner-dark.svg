@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="BuddhistAI: open AI skills and benchmarks for Buddhist texts">
+<rect width="1200" height="300" rx="16" fill="#1C1814"/>
+<g fill="none" stroke="#E0A045" stroke-width="5" stroke-linecap="round" opacity="0.9">
+<circle cx="1010" cy="150" r="78"/><circle cx="1010" cy="150" r="18"/><line x1="1028.0" y1="150.0" x2="1088.0" y2="150.0"/><line x1="1022.7" y1="162.7" x2="1065.2" y2="205.2"/><line x1="1010.0" y1="168.0" x2="1010.0" y2="228.0"/><line x1="997.3" y1="162.7" x2="954.8" y2="205.2"/><line x1="992.0" y1="150.0" x2="932.0" y2="150.0"/><line x1="997.3" y1="137.3" x2="954.8" y2="94.8"/><line x1="1010.0" y1="132.0" x2="1010.0" y2="72.0"/><line x1="1022.7" y1="137.3" x2="1065.2" y2="94.8"/>
+</g>
+<circle cx="1010" cy="150" r="104" fill="none" stroke="#3A3128" stroke-width="2"/>
+<text x="80" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="700" fill="#F3EADB">BuddhistAI</text>
+<text x="82" y="192" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#BFAE98">Open AI skills and benchmarks for Buddhist texts,</text>
+<text x="82" y="230" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#BFAE98">built together, in every tradition and language.</text>
+</svg>

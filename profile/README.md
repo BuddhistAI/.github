@@ -1,8 +1,8 @@
 # BuddhistAI
 
-Open AI skills and benchmarks for Buddhist texts, built together by Buddhist organizations. Everything is MIT licensed. Founded by [WeBuddhist](https://webuddhist.com).
+Welcome! BuddhistAI is a shared, open home for AI skills and benchmarks that work with Buddhist texts, in every tradition and language. It belongs to everyone who takes part: monasteries, universities, translation groups, developers and researchers. Everything is MIT licensed, and new people and organizations are always welcome.
 
-**[Leaderboard](https://buddhistai.github.io/buddhist-benchmarks/)** · **[Hugging Face](https://huggingface.co/BuddhistAI)** · **[Forum](https://forum.webuddhist.com/c/wg/ai-wg/36)** · **[Discord](https://discord.com/invite/7GFpPFSTeA)** · **[WeBuddhist](https://webuddhist.com)**
+**[Leaderboard](https://buddhistai.github.io/buddhist-benchmarks/)** · **[Datasets on Hugging Face](https://huggingface.co/BuddhistAI)** · **[Join in](#join-in)**
 
 ## Start here
 
@@ -33,10 +33,13 @@ Plans, logs and reports for every experiment are in [research](https://github.co
 | [toc-extraction-tibetan](https://github.com/BuddhistAI/toc-extraction-tibetan) | Workshop for one skill: variants, runs and the ranking report |
 | [research](https://github.com/BuddhistAI/research) | Experiment plans and reports |
 
-## Links
+## Join in
 
-- **Leaderboard:** [buddhistai.github.io/buddhist-benchmarks](https://buddhistai.github.io/buddhist-benchmarks/), the best skill and model for each task and language
-- **Datasets:** [huggingface.co/BuddhistAI](https://huggingface.co/BuddhistAI)
-- **Buddhist AI Studio:** [buddhistai.tools](https://buddhistai.tools/), WeBuddhist's AI tools for translating and annotating texts
-- **Talk to us:** the [AI Tools working group](https://forum.webuddhist.com/c/wg/ai-wg/36) on the WeBuddhist forum, where experiment reports are posted, or [Discord](https://discord.com/invite/7GFpPFSTeA). For a bug or idea about one repo, open an issue there.
-- **WeBuddhist:** [webuddhist.com](https://webuddhist.com)
+Open an issue or pull request in any repo above: questions, ideas and first contributions are all welcome. For longer conversations, the community currently meets in the [AI Tools working group](https://forum.webuddhist.com/c/wg/ai-wg/36) on the WeBuddhist forum and on [Discord](https://discord.com/invite/7GFpPFSTeA), where experiment reports are also shared.
+
+## Who's involved
+
+BuddhistAI is built by the organizations and people who contribute to it:
+
+- [WeBuddhist](https://webuddhist.com), which also makes [Buddhist AI Studio](https://buddhistai.tools/)
+- **Your organization?** Contribute a skill, a test set or exam papers, then open a pull request on [this page](https://github.com/BuddhistAI/.github/blob/main/profile/README.md) to add your name.

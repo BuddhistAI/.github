@@ -21,8 +21,12 @@
 Find the best AI solution for your task and language. See the scores and costs of models, skills and tools next to each other.
 
 [**Open the leaderboard →**](https://buddhistai.github.io/buddhist-benchmarks/)<br>
-[Install the best skills →](https://github.com/BuddhistAI/buddhist-skills#install)<br>
-[Ask for a task we don't cover yet →](https://github.com/BuddhistAI/buddhist-skills/issues/new?template=request.yml)
+[Install the best skills →](https://github.com/BuddhistAI/buddhist-skills#install)
+
+**No AI solution for your task yet?** Tell us what you need. No technical knowledge needed.
+
+[**Request an AI solution for a task →**](https://github.com/BuddhistAI/buddhist-skills/issues/new?template=request.yml)<br>
+[See all requests on the Skills board →](https://github.com/orgs/BuddhistAI/projects/1)
 
 </td>
 <td width="50%" valign="top">
@@ -33,7 +37,8 @@ Share your model, skill, prompt or workflow and take part in the evaluations. Sc
 
 [**How to submit →**](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/SUBMIT.md)<br>
 [Share it now, without a score →](https://github.com/BuddhistAI/buddhist-skills/tree/main/community)<br>
-[Propose a new benchmark →](https://github.com/orgs/BuddhistAI/discussions)
+[Solve an open request →](https://github.com/orgs/BuddhistAI/projects/1)<br>
+[Propose a new benchmark →](https://github.com/BuddhistAI/buddhist-benchmarks/issues/new?template=propose-benchmark.yml)
 
 </td>
 </tr>
@@ -51,6 +56,7 @@ Every contribution follows three steps, **Share → Measure → Release**: share
 - 🛠️ **Build a skill or add test data:** see a [workshop repo](https://github.com/BuddhistAI/toc-extraction-tibetan) for how a skill is made, or [add a test set](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/CONTRIBUTING.md) for your language.
 - 🏛️ **Represent a tradition or institution?** Share [exam papers](https://github.com/BuddhistAI/buddhist-bench/blob/main/docs/exams.md) (with permission) or [write expert questions](https://github.com/BuddhistAI/buddhist-bench/blob/main/CONTRIBUTING.md) for BuddhistBench.
 - 🔬 **Do research?** Read the experiment plans and reports in the [knowledge base](https://buddhistai.github.io/knowledge-base/experiments/), or propose an experiment with an [Idea issue](https://github.com/BuddhistAI/knowledge-base/issues/new?template=idea.yml).
+- 📋 **See what is happening:** the [Skills board](https://github.com/orgs/BuddhistAI/projects/1) shows every request and shared skill, from "Requested" to "Released". The [Benchmarks board](https://github.com/orgs/BuddhistAI/projects/2) shows every benchmark, from "Proposed" to "Live".
 - 💬 **Questions or ideas?** Start a thread in [Discussions](https://github.com/orgs/BuddhistAI/discussions), or open an issue in any repo. Please read our [code of conduct](https://github.com/BuddhistAI/buddhist-skills/blob/main/CODE_OF_CONDUCT.md).
 
 ## Repositories

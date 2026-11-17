@@ -10,7 +10,7 @@
   <a href="https://opensource.org/license/mit"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-6B5B4B"></a>
 </p>
 
-**Welcome!** BuddhistAI is a shared, open home for AI skills and benchmarks that work with Buddhist texts. It belongs to everyone who takes part: monasteries, universities, translation groups, developers and researchers. New people and organizations are always welcome.
+☸📊 **Welcome!** BuddhistAI is a shared, open home for AI skills and benchmarks that work with Buddhist texts. It belongs to everyone who takes part: monasteries, universities, translation groups, developers and researchers. New people and organizations are always welcome.
 
 <table>
 <tr>
@@ -47,10 +47,14 @@ For organizations building tools or models: score yours on an open benchmark and
 
 ## Get involved
 
+Every contribution starts with **Share → Measure → Ship**: share what you use, measure it on a benchmark when one exists, and the best one ships for everyone. You do not need to know git or code. Start with [Ways to contribute](https://github.com/BuddhistAI/buddhist-skills/blob/main/CONTRIBUTING.md).
+
+- 🤲 **Share a prompt, skill or workflow you use**, with no benchmark score needed: fill in the [Share form](https://github.com/BuddhistAI/buddhist-skills/issues/new?template=share.yml) or see [community/](https://github.com/BuddhistAI/buddhist-skills/tree/main/community).
+- 📖 **Read a Buddhist language?** [Volunteer as a language reader](https://github.com/BuddhistAI/buddhist-skills/issues/new?template=reader.yml) to check texts and answer keys.
 - 🛠️ **Build a skill or add test data:** see a [workshop repo](https://github.com/BuddhistAI/toc-extraction-tibetan) for how a skill is made, or [add a test set](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/CONTRIBUTING.md) for your language.
 - 🏛️ **Represent a tradition or institution?** Share [exam papers](https://github.com/BuddhistAI/buddhist-bench/blob/main/docs/exams.md) (with permission) or [write expert questions](https://github.com/BuddhistAI/buddhist-bench/blob/main/CONTRIBUTING.md) for BuddhistBench.
 - 🔬 **Do research?** Read the plans and reports in [research](https://github.com/BuddhistAI/research).
-- 💬 **Questions or ideas?** Start a thread in [Discussions](https://github.com/orgs/BuddhistAI/discussions), or open an issue in any repo.
+- 💬 **Questions or ideas?** Start a thread in [Discussions](https://github.com/orgs/BuddhistAI/discussions), or open an issue in any repo. Please read our [code of conduct](https://github.com/BuddhistAI/buddhist-skills/blob/main/CODE_OF_CONDUCT.md).
 
 ## Repositories
 

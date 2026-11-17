@@ -46,6 +46,7 @@ Share your model, skill, prompt or workflow and take part in the evaluations. Sc
 Every contribution follows three steps, **Share → Measure → Release**: share what you use, measure it on a benchmark when one exists, and the best one is released for everyone. You do not need to know git or code. Start with [Ways to contribute](https://github.com/BuddhistAI/buddhist-skills/blob/main/CONTRIBUTING.md).
 
 - 🤲 **Share a prompt, skill or workflow you use**, without a benchmark score: fill in the [Share form](https://github.com/BuddhistAI/buddhist-skills/issues/new?template=share.yml) or see [community/](https://github.com/BuddhistAI/buddhist-skills/tree/main/community).
+- 📝 **Know how a Buddhist task is done?** Help define it on the [BuddhistAI wiki](https://buddhistai.github.io/wiki/): add an example or a hard case to a task page, or [share your workflow](https://github.com/BuddhistAI/wiki/issues/new?template=share-workflow.yml) with a link to your own document.
 - 📖 **Read a Buddhist language?** [Volunteer as a language reader](https://github.com/BuddhistAI/buddhist-skills/issues/new?template=reader.yml) to check texts and answer keys.
 - 🛠️ **Build a skill or add test data:** see a [workshop repo](https://github.com/BuddhistAI/toc-extraction-tibetan) for how a skill is made, or [add a test set](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/CONTRIBUTING.md) for your language.
 - 🏛️ **Represent a tradition or institution?** Share [exam papers](https://github.com/BuddhistAI/buddhist-bench/blob/main/docs/exams.md) (with permission) or [write expert questions](https://github.com/BuddhistAI/buddhist-bench/blob/main/CONTRIBUTING.md) for BuddhistBench.
@@ -56,6 +57,7 @@ Every contribution follows three steps, **Share → Measure → Release**: share
 
 | | |
 | --- | --- |
+| [**wiki**](https://buddhistai.github.io/wiki/) | What each Buddhist task is, and the real workflows it comes from. Anyone can edit it |
 | [**buddhist-skills**](https://github.com/BuddhistAI/buddhist-skills) | The best skill for each task and language, ready to install |
 | [**buddhist-benchmarks**](https://github.com/BuddhistAI/buddhist-benchmarks) | Test sets, scorers and the [leaderboard](https://buddhistai.github.io/buddhist-benchmarks/) for AI models and skills |
 | [**buddhist-bench**](https://github.com/BuddhistAI/buddhist-bench) | BuddhistBench: a question-and-answer benchmark on the Buddhist traditions, in many languages |

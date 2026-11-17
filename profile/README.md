@@ -71,35 +71,9 @@ Every contribution follows three steps, **Share → Measure → Release**: share
 
 ## Contributors
 
-BuddhistAI is built by the organizations and people who contribute to it. Everything is MIT licensed.
+<a href="https://github.com/ngawangtrinley"><img src="https://github.com/ngawangtrinley.png?size=96" width="48" height="48" alt="ngawangtrinley"></a>
+<a href="https://github.com/WeBuddhist"><img src="https://github.com/WeBuddhist.png?size=96" width="48" height="48" alt="WeBuddhist"></a>
 
-<table>
-<tr>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/ngawangtrinley"><img src="https://github.com/ngawangtrinley.png?size=144" width="72" height="72" alt=""><br><b>ngawangtrinley</b></a><br>
-<sub>Person</sub>
-</td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/WeBuddhist"><img src="https://github.com/WeBuddhist.png?size=144" width="72" height="72" alt=""><br><b>WeBuddhist</b></a><br>
-<sub>Organization. Also runs <a href="https://buddhistai.tools/">Buddhist AI Studio</a>, an <a href="https://forum.webuddhist.com/c/wg/ai-wg/36">AI Tools group</a> on its forum, and a <a href="https://discord.com/invite/7GFpPFSTeA">Discord</a></sub>
-</td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/BuddhistAI/buddhist-skills/blob/main/CONTRIBUTING.md"><b>You?</b></a><br>
-<sub>Contribute a skill, a test set or exam papers, then <a href="https://github.com/BuddhistAI/.github/edit/main/profile/README.md">add your name here</a></sub>
-</td>
-</tr>
-</table>
+[How to contribute](https://github.com/BuddhistAI/buddhist-skills/blob/main/CONTRIBUTING.md) · Everything is MIT licensed.
 
-## Supported by
-
-These organizations back BuddhistAI.
-
-<table>
-<tr>
-<td align="center" valign="middle" width="33%"><a href="https://www.budaedu.org/"><b>Buddha Educational Foundation</b></a><br><sub>budaedu.org</sub></td>
-<td align="center" valign="middle" width="33%"><a href="https://openpecha.org/"><b>OpenPecha</b></a><br><sub>openpecha.org</sub></td>
-<td align="center" valign="middle" width="33%"><a href="https://unionebuddhistaitaliana.it/en/"><b>Unione Buddhista Italiana</b></a><br><sub>Italian Buddhist Union</sub></td>
-</tr>
-</table>
-
-Would your organization like to support this work? Start a thread in [Discussions](https://github.com/orgs/BuddhistAI/discussions).
+**Supported by** [Buddha Educational Foundation](https://www.budaedu.org/) · [OpenPecha](https://openpecha.org/) · [Unione Buddhista Italiana](https://unionebuddhistaitaliana.it/en/)

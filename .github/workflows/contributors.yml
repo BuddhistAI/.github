@@ -1,0 +1,38 @@
+name: Update contributors
+
+# Copies the contributor row from the website (buddhistai.github.io/contributors.json,
+# built there from every BuddhistAI repository) into profile/README.md.
+on:
+  schedule:
+    - cron: '47 3 * * *'   # daily, after the website update
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite the contributor row
+        shell: python3 {0}
+        run: |
+          import json, urllib.request
+          people = json.load(urllib.request.urlopen('https://buddhistai.github.io/contributors.json'))['people']
+          row = '\n'.join(f'<a href="https://github.com/{p["login"]}" title="{p["login"]}"><img src="https://github.com/{p["login"]}.png?size=96" width="48" height="48" alt="{p["login"]}"></a>' for p in people)
+          path = 'profile/README.md'
+          text = open(path, encoding='utf-8').read()
+          start, end = '<!-- contributors:start -->', '<!-- contributors:end -->'
+          i, j = text.index(start) + len(start), text.index(end)
+          open(path, 'w', encoding='utf-8').write(text[:i] + '\n' + row + '\n' + text[j:])
+          print(len(people), 'contributors')
+      - name: Commit if changed
+        run: |
+          git add profile/README.md
+          if git diff --cached --quiet; then echo "No change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update contributors"
+          git pull --rebase
+          git push

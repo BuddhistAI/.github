@@ -10,7 +10,7 @@
   <a href="https://opensource.org/license/mit"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-6B5B4B"></a>
 </p>
 
-☸📊 **Welcome!** BuddhistAI is a shared, open home for Buddhist AI benchmarks and skills: for texts and translation, for images and visual AI, and for the personal AI setups Buddhists use every day. It belongs to everyone who takes part: monasteries, universities, translation groups, developers and researchers. New people and organizations are always welcome.
+☸📊 **Welcome!** BuddhistAI is a shared, open home for benchmarks and skills for Buddhist tasks: text work and translation, images and visual AI, and the personal AI setups Buddhists use for study, teaching and practice. It belongs to everyone who takes part: monasteries, universities, translation groups, developers and researchers. New people and organizations are always welcome.
 
 <table>
 <tr>

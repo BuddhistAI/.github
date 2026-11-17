@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img alt="BuddhistAI: open Buddhist AI benchmarks and skills, built together" src="./assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=4">
+  <img alt="BuddhistAI: open Buddhist AI benchmarks and skills, built together" src="./assets/banner-light.svg?v=4" width="100%">
 </picture>
 
 <p align="center">

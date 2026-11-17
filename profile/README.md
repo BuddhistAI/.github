@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img alt="BuddhistAI: open AI skills and benchmarks for Buddhist texts, built together" src="./assets/banner-light.svg" width="100%">
+  <img alt="BuddhistAI: open Buddhist AI benchmarks and skills, built together" src="./assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href="https://opensource.org/license/mit"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-6B5B4B"></a>
 </p>
 
-☸📊 **Welcome!** BuddhistAI is a shared, open home for AI skills and benchmarks that work with Buddhist texts. It belongs to everyone who takes part: monasteries, universities, translation groups, developers and researchers. New people and organizations are always welcome.
+☸📊 **Welcome!** BuddhistAI is a shared, open home for Buddhist AI benchmarks and skills: for texts and translation, for images and visual AI, and for the personal AI setups Buddhists use every day. It belongs to everyone who takes part: monasteries, universities, translation groups, developers and researchers. New people and organizations are always welcome.
 
 <table>
 <tr>

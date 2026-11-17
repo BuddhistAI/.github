@@ -25,6 +25,7 @@
 
 <!-- contributors:start -->
 <a href="https://github.com/ngawangtrinley" title="ngawangtrinley"><img src="https://github.com/ngawangtrinley.png?size=96" width="48" height="48" alt="ngawangtrinley"></a>
+<a href="https://github.com/kaldan007" title="kaldan007"><img src="https://github.com/kaldan007.png?size=96" width="48" height="48" alt="kaldan007"></a>
 <a href="https://github.com/WeBuddhist" title="WeBuddhist"><img src="https://github.com/WeBuddhist.png?size=96" width="48" height="48" alt="WeBuddhist"></a>
 <!-- contributors:end -->
 

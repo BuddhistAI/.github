@@ -10,40 +10,36 @@
   <a href="https://opensource.org/license/mit"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-6B5B4B"></a>
 </p>
 
-☸📊 **Welcome!** BuddhistAI is a shared, open home for benchmarks that rank AI models and skills on Buddhist tasks, and for the skills themselves: text work and translation, images and visual AI, and the personal AI setups Buddhists use for study, teaching and practice. It belongs to everyone who takes part: monasteries, universities, translation groups, developers and researchers. New people and organizations are always welcome.
+☸📊 **BuddhistAI helps anyone working on a Buddhist project find the best-performing and best-value AI solution for their task, and helps anyone building AI solutions share theirs and take part in the evaluations.** Tasks range from text work and translation to images and visual AI and personal AI setups for study, teaching and practice. Everything is open, and it belongs to everyone who takes part.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🧭 State of AI for Buddhism
+### 🏆 Working on a Buddhist project?
 
-For foundations, funders and anyone asking what AI can do today: what is measured, the best current scores, and the gaps.
-
-[**See the state and gaps →**](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/STATE.md)
-
-</td>
-<td width="33%" valign="top">
-
-### 🏆 Find the best tools
-
-For teachers, translators and project teams: which skill and model work best for your task and language, and what they cost.
+Find the best AI solution for your task and language: the best performer and the best value, with scores and cost side by side, for models, skills and tools.
 
 [**Open the leaderboard →**](https://buddhistai.github.io/buddhist-benchmarks/)<br>
-[Install the skills →](https://github.com/BuddhistAI/buddhist-skills#install)
+[Install the best skills →](https://github.com/BuddhistAI/buddhist-skills#install)<br>
+[Ask for a task we don't cover yet →](https://github.com/BuddhistAI/buddhist-skills/issues/new?template=request.yml)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🧪 Evaluate your solution
+### 🧪 Building AI solutions?
 
-For organizations building tools or models: score yours on an open benchmark and join the leaderboard, or propose a new benchmark.
+Share your model, skill, prompt or workflow and take part in the evaluations. Score it on an open benchmark and it is ranked next to everything else.
 
-[**How to submit →**](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/SUBMIT.md)
+[**How to submit →**](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/SUBMIT.md)<br>
+[Share it now, no score needed →](https://github.com/BuddhistAI/buddhist-skills/tree/main/community)<br>
+[Propose a new benchmark →](https://github.com/orgs/BuddhistAI/discussions)
 
 </td>
 </tr>
 </table>
+
+🧭 **Funding or coordinating Buddhist AI work?** The [state of AI for Buddhist tasks](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/STATE.md) shows what is measured today, the best current results, and where the gaps are.
 
 ## Get involved
 

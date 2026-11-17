@@ -10,7 +10,8 @@
   <a href="https://buddhistai.github.io/buddhist-benchmarks/">Leaderboard</a> ·
   <a href="https://buddhistai.github.io/knowledge-base/">Knowledge base</a> ·
   <a href="https://github.com/BuddhistAI/buddhist-skills/blob/main/CONTRIBUTING.md">Contribute</a> ·
-  <a href="https://github.com/orgs/BuddhistAI/discussions">Discussions</a>
+  <a href="https://github.com/orgs/BuddhistAI/discussions">Discussions</a> ·
+  <a href="https://x.com/buddhist_ai">X</a>
 </h3>
 
 ## Repositories

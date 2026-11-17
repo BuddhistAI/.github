@@ -10,7 +10,7 @@
   <a href="https://opensource.org/license/mit"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-6B5B4B"></a>
 </p>
 
-☸📊 **BuddhistAI helps anyone working on a Buddhist project find the best-performing and best-value AI solution for their task, and helps anyone building AI solutions share theirs and take part in the evaluations.** Tasks range from text work and translation to images and visual AI and personal AI setups for study, teaching and practice. Everything is open, and it belongs to everyone who takes part.
+☸📊 **BuddhistAI helps people who work on Buddhist projects find the best AI solution for each task: the one with the best results, and the one with the best results for its cost. It also helps people who build AI solutions share them and have them tested.** Tasks range from text work and translation to images and visual AI and personal AI setups for study, teaching and practice. Everything is open, and it belongs to everyone who takes part.
 
 <table>
 <tr>
@@ -18,7 +18,7 @@
 
 ### 🏆 Working on a Buddhist project?
 
-Find the best AI solution for your task and language: the best performer and the best value, with scores and cost side by side, for models, skills and tools.
+Find the best AI solution for your task and language. See the scores and costs of models, skills and tools next to each other.
 
 [**Open the leaderboard →**](https://buddhistai.github.io/buddhist-benchmarks/)<br>
 [Install the best skills →](https://github.com/BuddhistAI/buddhist-skills#install)<br>
@@ -32,7 +32,7 @@ Find the best AI solution for your task and language: the best performer and the
 Share your model, skill, prompt or workflow and take part in the evaluations. Score it on an open benchmark and it is ranked next to everything else.
 
 [**How to submit →**](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/SUBMIT.md)<br>
-[Share it now, no score needed →](https://github.com/BuddhistAI/buddhist-skills/tree/main/community)<br>
+[Share it now, without a score →](https://github.com/BuddhistAI/buddhist-skills/tree/main/community)<br>
 [Propose a new benchmark →](https://github.com/orgs/BuddhistAI/discussions)
 
 </td>
@@ -43,9 +43,9 @@ Share your model, skill, prompt or workflow and take part in the evaluations. Sc
 
 ## Get involved
 
-Every contribution starts with **Share → Measure → Ship**: share what you use, measure it on a benchmark when one exists, and the best one ships for everyone. You do not need to know git or code. Start with [Ways to contribute](https://github.com/BuddhistAI/buddhist-skills/blob/main/CONTRIBUTING.md).
+Every contribution follows three steps, **Share → Measure → Release**: share what you use, measure it on a benchmark when one exists, and the best one is released for everyone. You do not need to know git or code. Start with [Ways to contribute](https://github.com/BuddhistAI/buddhist-skills/blob/main/CONTRIBUTING.md).
 
-- 🤲 **Share a prompt, skill or workflow you use**, with no benchmark score needed: fill in the [Share form](https://github.com/BuddhistAI/buddhist-skills/issues/new?template=share.yml) or see [community/](https://github.com/BuddhistAI/buddhist-skills/tree/main/community).
+- 🤲 **Share a prompt, skill or workflow you use**, without a benchmark score: fill in the [Share form](https://github.com/BuddhistAI/buddhist-skills/issues/new?template=share.yml) or see [community/](https://github.com/BuddhistAI/buddhist-skills/tree/main/community).
 - 📖 **Read a Buddhist language?** [Volunteer as a language reader](https://github.com/BuddhistAI/buddhist-skills/issues/new?template=reader.yml) to check texts and answer keys.
 - 🛠️ **Build a skill or add test data:** see a [workshop repo](https://github.com/BuddhistAI/toc-extraction-tibetan) for how a skill is made, or [add a test set](https://github.com/BuddhistAI/buddhist-benchmarks/blob/main/CONTRIBUTING.md) for your language.
 - 🏛️ **Represent a tradition or institution?** Share [exam papers](https://github.com/BuddhistAI/buddhist-bench/blob/main/docs/exams.md) (with permission) or [write expert questions](https://github.com/BuddhistAI/buddhist-bench/blob/main/CONTRIBUTING.md) for BuddhistBench.
@@ -62,7 +62,7 @@ Every contribution starts with **Share → Measure → Ship**: share what you us
 | [**toc-extraction-tibetan**](https://github.com/BuddhistAI/toc-extraction-tibetan) | Workshop for one skill: variants, runs and reports |
 | [**research**](https://github.com/BuddhistAI/research) | Experiment plans and reports |
 
-## Who's involved
+## Who takes part
 
 BuddhistAI is built by the organizations and people who contribute to it. Everything is MIT licensed.
 

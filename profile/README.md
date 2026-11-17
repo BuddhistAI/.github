@@ -1,13 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=4">
-  <img alt="BuddhistAI: open Buddhist AI benchmarks and skills, built together" src="./assets/banner-light.svg?v=4" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=5">
+  <img alt="BuddhistAI: open Buddhist AI benchmarks and skills, built together" src="./assets/banner-light.svg?v=5" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://buddhistai.github.io/buddhist-benchmarks/"><img alt="Leaderboard" src="https://img.shields.io/badge/leaderboard-live-C27A1E"></a>
+  <a href="https://buddhistai.github.io/buddhist-benchmarks/"><img alt="Leaderboard" src="https://img.shields.io/badge/leaderboard-live-2443A6"></a>
   <a href="https://huggingface.co/BuddhistAI"><img alt="Hugging Face" src="https://img.shields.io/badge/datasets-Hugging_Face-FFD21E?logo=huggingface&logoColor=black"></a>
-  <a href="https://github.com/orgs/BuddhistAI/discussions"><img alt="Discussions" src="https://img.shields.io/badge/join-Discussions-4C8C6E?logo=github"></a>
-  <a href="https://opensource.org/license/mit"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-6B5B4B"></a>
+  <a href="https://github.com/orgs/BuddhistAI/discussions"><img alt="Discussions" src="https://img.shields.io/badge/join-Discussions-1F7A4D?logo=github"></a>
+  <a href="https://opensource.org/license/mit"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-141B2D"></a>
 </p>
 
 ☸📊 **BuddhistAI helps people who work on Buddhist projects find the best AI solution for each task: the one with the best results, and the one with the best results for its cost. It also helps people who build AI solutions share them and have them tested.** Tasks range from text work and translation to images and visual AI and personal AI setups for study, teaching and practice. Everything is open, and it belongs to everyone who takes part.
@@ -69,9 +69,37 @@ Every contribution follows three steps, **Share → Measure → Release**: share
 | [**buddhist-bench**](https://github.com/BuddhistAI/buddhist-bench) | BuddhistBench: a question-and-answer benchmark on the Buddhist traditions, in many languages |
 | [**toc-extraction-tibetan**](https://github.com/BuddhistAI/toc-extraction-tibetan) | Workshop for one skill: variants, runs and reports |
 
-## Who takes part
+## Contributors
 
 BuddhistAI is built by the organizations and people who contribute to it. Everything is MIT licensed.
 
-- [**WeBuddhist**](https://webuddhist.com): also runs [Buddhist AI Studio](https://buddhistai.tools/), the [AI Tools working group](https://forum.webuddhist.com/c/wg/ai-wg/36) on its forum, and a [Discord](https://discord.com/invite/7GFpPFSTeA)
-- **Your organization?** Contribute a skill, a test set or exam papers, then [add your name here](https://github.com/BuddhistAI/.github/edit/main/profile/README.md).
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/ngawangtrinley"><img src="https://github.com/ngawangtrinley.png?size=144" width="72" height="72" alt=""><br><b>ngawangtrinley</b></a><br>
+<sub>Person</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/WeBuddhist"><img src="https://github.com/WeBuddhist.png?size=144" width="72" height="72" alt=""><br><b>WeBuddhist</b></a><br>
+<sub>Organization. Also runs <a href="https://buddhistai.tools/">Buddhist AI Studio</a>, an <a href="https://forum.webuddhist.com/c/wg/ai-wg/36">AI Tools group</a> on its forum, and a <a href="https://discord.com/invite/7GFpPFSTeA">Discord</a></sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/BuddhistAI/buddhist-skills/blob/main/CONTRIBUTING.md"><b>You?</b></a><br>
+<sub>Contribute a skill, a test set or exam papers, then <a href="https://github.com/BuddhistAI/.github/edit/main/profile/README.md">add your name here</a></sub>
+</td>
+</tr>
+</table>
+
+## Supported by
+
+These organizations back BuddhistAI.
+
+<table>
+<tr>
+<td align="center" valign="middle" width="33%"><a href="https://www.budaedu.org/"><b>Buddha Educational Foundation</b></a><br><sub>budaedu.org</sub></td>
+<td align="center" valign="middle" width="33%"><a href="https://openpecha.org/"><b>OpenPecha</b></a><br><sub>openpecha.org</sub></td>
+<td align="center" valign="middle" width="33%"><a href="https://unionebuddhistaitaliana.it/en/"><b>Unione Buddhista Italiana</b></a><br><sub>Italian Buddhist Union</sub></td>
+</tr>
+</table>
+
+Would your organization like to support this work? Start a thread in [Discussions](https://github.com/orgs/BuddhistAI/discussions).

@@ -61,8 +61,8 @@ Every contribution starts with **Share → Measure → Ship**: share what you us
 | | |
 | --- | --- |
 | [**buddhist-skills**](https://github.com/BuddhistAI/buddhist-skills) | The best skill for each task and language, ready to install |
-| [**buddhist-benchmarks**](https://github.com/BuddhistAI/buddhist-benchmarks) | Test sets, scorers and the [leaderboard](https://buddhistai.github.io/buddhist-benchmarks/) for skills |
-| [**buddhist-bench**](https://github.com/BuddhistAI/buddhist-bench) | BuddhistBench: how well AI models know the Buddhist traditions, in many languages |
+| [**buddhist-benchmarks**](https://github.com/BuddhistAI/buddhist-benchmarks) | Test sets, scorers and the [leaderboard](https://buddhistai.github.io/buddhist-benchmarks/) for AI models and skills |
+| [**buddhist-bench**](https://github.com/BuddhistAI/buddhist-bench) | BuddhistBench: a question-and-answer benchmark on the Buddhist traditions, in many languages |
 | [**toc-extraction-tibetan**](https://github.com/BuddhistAI/toc-extraction-tibetan) | Workshop for one skill: variants, runs and reports |
 | [**research**](https://github.com/BuddhistAI/research) | Experiment plans and reports |
 

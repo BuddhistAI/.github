@@ -57,7 +57,7 @@ Every contribution follows three steps, **Share → Measure → Release**: share
 - 🏛️ **Represent a tradition or institution?** Share [exam papers](https://github.com/BuddhistAI/buddhist-bench/blob/main/docs/exams.md) (with permission) or [write expert questions](https://github.com/BuddhistAI/buddhist-bench/blob/main/CONTRIBUTING.md) for BuddhistBench.
 - 🔬 **Do research?** Read the experiment plans and reports in the [knowledge base](https://buddhistai.github.io/knowledge-base/experiments/), or propose an experiment with an [Idea issue](https://github.com/BuddhistAI/knowledge-base/issues/new?template=idea.yml).
 - 📋 **See what is happening:** the [Skills board](https://github.com/orgs/BuddhistAI/projects/1) shows every request and shared skill, from "Requested" to "Released". The [Benchmarks board](https://github.com/orgs/BuddhistAI/projects/2) shows every benchmark, from "Proposed" to "Live".
-- 💬 **Questions or ideas?** Start a thread in [Discussions](https://github.com/orgs/BuddhistAI/discussions), or open an issue in any repo. Please read our [code of conduct](https://github.com/BuddhistAI/buddhist-skills/blob/main/CODE_OF_CONDUCT.md).
+- 💬 **Join the community in [Discussions](https://github.com/orgs/BuddhistAI/discussions).** Ask which AI works best for your task, share what you made, or talk about your language. [Start here](https://github.com/orgs/BuddhistAI/discussions/1) to see where to post. Please read our [code of conduct](https://github.com/BuddhistAI/buddhist-skills/blob/main/CODE_OF_CONDUCT.md).
 
 ## Repositories
 

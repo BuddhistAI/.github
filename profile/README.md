@@ -32,8 +32,8 @@
 
 ## Supported by
 
+<a href="https://unionebuddhistaitaliana.it/en/"><img src="https://buddhistai.github.io/assets/supporters/ubi.png" height="44" alt="Unione Buddhista Italiana"></a>
 <a href="https://www.budaedu.org/"><img src="https://buddhistai.github.io/assets/supporters/budaedu.png" height="44" alt="Buddha Educational Foundation"></a>
 <a href="https://openpecha.org/"><img src="https://buddhistai.github.io/assets/supporters/openpecha.png" height="44" alt="OpenPecha"></a>
-<a href="https://unionebuddhistaitaliana.it/en/"><img src="https://buddhistai.github.io/assets/supporters/ubi.png" height="44" alt="Unione Buddhista Italiana"></a>
 
 Everything is open and MIT licensed.
